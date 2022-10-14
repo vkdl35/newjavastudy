@@ -1,4 +1,4 @@
-package com.max21lkm.controller;
+package com.max21lkm.item.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

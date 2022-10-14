@@ -1,4 +1,4 @@
-package com.max21lkm.domain;
+package com.max21lkm.item.domain;
 
 import org.springframework.web.multipart.MultipartFile;
 

@@ -1,4 +1,4 @@
-package com.max21lkm.controller;
+package com.max21lkm.item.controller;
 
 import java.io.File;
 import java.util.UUID;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.max21lkm.domain.MemberDTO;
-import com.max21lkm.domain.ReportDTO;
+import com.max21lkm.item.domain.MemberDTO;
+import com.max21lkm.item.domain.ReportDTO;
 
 import lombok.extern.log4j.Log4j;
 
